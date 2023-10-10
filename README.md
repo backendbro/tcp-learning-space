@@ -10,7 +10,7 @@ This is a TCP server that demonstrates how transport layer works using telnet pr
 - To get started, you need to clone the git repository onto your local machine by using the following command: `git clone https://github.com/backendbro/tcp-learning-space`
 > No external dependency was used for this project. However, you can install nodemon to watch your server.
 - Open your terminal and run the application using `npm run start`
-  ![tcp-run-start-1](https://github.com/backendbro/tcp-learning-space/assets/85031254/dc82f54d-4930-443d-b797-a974860f3f2f)
+![tcp-run-start-1](https://github.com/backendbro/tcp-learning-space/assets/85031254/55c042a5-e655-45f7-ae35-5307b6916f0b)
 
  
 - To establish a TCP connection, open a command prompt and type: `telent 127.0.0.1 8080`
